@@ -1,7 +1,7 @@
 Aaron's tmux config
 ===================
 
-![image](http://f.cl.ly/items/1q0h2s1p0r0A14202c0U/Screen%20Shot%202012-10-29%20at%203.13.11%20PM.png)
+![image](http://cl.ly/image/1K030L2E273S/Screen%20Shot%202012-10-29%20at%203.16.48%20PM.png)
 
 Install tmux 1.5 or greater.  This conf has been tested with tmux 1.5
 
