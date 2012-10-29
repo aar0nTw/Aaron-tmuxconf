@@ -1,7 +1,7 @@
 Aaron's tmux config
 ===================
 
-![image](https://s3.amazonaws.com/files.droplr.com/files_production/acc_48015/2Udu?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1351422807&Signature=yloFdqJXhvStlInG%2BkfUb5FkNjE%3D&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27Screen%2BShot%2B2012-10-28%2Bat%2B6.04.22%2BPM.PNG)
+![image](http://f.cl.ly/items/1q0h2s1p0r0A14202c0U/Screen%20Shot%202012-10-29%20at%203.13.11%20PM.png)
 
 Install tmux 1.5 or greater.  This conf has been tested with tmux 1.5
 
